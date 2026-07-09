@@ -1,0 +1,14 @@
+button{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: aqua;
+    background-color: brown;
+}
+button:hover{
+    background-color: blue;
+}
+button:active{
+    scale: 0.9;
+}
