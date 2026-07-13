@@ -1,0 +1,25 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/1040528_1230667_Imran-Khan\,-U-turn_akhbar.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+h2
+{  
+    color: #ffffff;
+    font-size: 80px;
+    text-align: center;
+    padding: 20px 30px;
+
+}
